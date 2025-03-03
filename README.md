@@ -4,7 +4,7 @@
 Overview: Basics of storing elements in contiguous memory.
 Difficulty: Easy
 Time: 1-2 weeks
-Concepts: Insertion, Deletion, Traversal, Searching, Sorting (basic algorithms like Bubble Sort, Selection Sort).
+Concepts: Insertion, Deletion, Traversal, Searching, Sorting (basic algorithms like Bubble Sort, Selection Sort)
 
 
 2. Linked Lists
